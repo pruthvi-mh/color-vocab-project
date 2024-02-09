@@ -1,0 +1,20 @@
+#red {
+    color: red;
+}
+#blue{
+    color: blue;
+}
+#orange{
+    color:orange;
+}
+#green{
+    color: green;
+}
+.color{
+    font-weight: bold;
+}
+.col{
+    height: 200px;
+    width: 200px;
+}
+
